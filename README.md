@@ -69,7 +69,7 @@ The dashboard is now live and can be accessed at: [Road Accident Analysis Dashbo
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/diw-666/road
    cd road
    ```
 
@@ -89,26 +89,6 @@ The dashboard is now live and can be accessed at: [Road Accident Analysis Dashbo
 ```bash
 streamlit run dashboard.py
 ```
-
-The dashboard will be available at:
-- 🌐 Local URL: http://localhost:8502
-- 🌍 Network URL: http://<your-ip>:8502
-
-## 🚀 Deployment
-
-The application is currently deployed on Streamlit Cloud and can be accessed at:
-- [https://road-accident-dashboard.streamlit.app/](https://road-accident-dashboard.streamlit.app/)
-
-### Deployment Options
-
-1. **Streamlit Cloud** (Recommended)
-   - Push your code to GitHub
-   - Connect your repository to Streamlit Cloud
-   - Deploy directly from the Streamlit Cloud interface
-
-2. **Heroku**
-   - Follow the deployment instructions in the deployment guide
-   - Ensure all dependencies are properly specified in requirements.txt
 
 ## 📦 Dependencies
 
@@ -144,5 +124,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Built with ❤️ by the Road Accident Analysis Team</sub>
+  <sub>Built with ❤️ by Yasiru Vithana</sub>
 </div> 
