@@ -29,7 +29,7 @@ A comprehensive dashboard for analyzing and visualizing road accident data, feat
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/diw-666/road)
 cd road
 ```
 
@@ -52,22 +52,6 @@ To run the dashboard locally:
 streamlit run dashboard.py
 ```
 
-The dashboard will be available at:
-- Local URL: http://localhost:8502
-- Network URL: http://<your-ip>:8502
-
-## Deployment
-
-The application can be deployed on various platforms:
-
-1. Streamlit Cloud (Recommended)
-   - Push your code to GitHub
-   - Connect your repository to Streamlit Cloud
-   - Deploy directly from the Streamlit Cloud interface
-
-2. Heroku
-   - Follow the deployment instructions in the deployment guide
-   - Ensure all dependencies are properly specified in requirements.txt
 
 ## Dependencies
 
