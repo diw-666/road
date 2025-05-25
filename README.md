@@ -29,7 +29,7 @@ A comprehensive dashboard for analyzing and visualizing road accident data, feat
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/diw-666/road)
+git clone https://github.com/diw-666/road
 cd road
 ```
 
